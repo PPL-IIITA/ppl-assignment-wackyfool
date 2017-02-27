@@ -1,0 +1,20 @@
+Checking status of Rachel
+Checking Rachel with Chandler
+Rachel is now in a relationship with Chandler
+Checking status of Pheebs
+Pheebs is already committed
+Checking status of Monika
+Monika is already committed
+Checking status of Meera
+Checking Meera with Jason
+Checking Meera with Jason
+Checking Meera with Jason
+Meera is now in a relationship with Jason
+Checking status of Samy
+Checking Samy with Roy
+Checking Samy with Roy
+Checking Samy with Roy
+Checking Samy with Roy
+Samy is still single. Tough Luck! 
+Checking Samy with Roy
+Samy is now in a relationship with Roy

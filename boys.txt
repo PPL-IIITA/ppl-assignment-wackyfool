@@ -1,0 +1,5 @@
+Chandler generous single 60 5000 70  
+Joey miser committed 90 2000 50
+Ross geek single 70 6000 90
+Jason geek single 50 2000 56
+Roy miser single 80 8000 90

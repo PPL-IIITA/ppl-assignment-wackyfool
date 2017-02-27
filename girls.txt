@@ -1,0 +1,5 @@
+Rachel choosy single 90 5000 60
+Pheebs normal committed 40 3000 80
+Monika desperate committed 80 4000 90
+Meera normal single 70 4500 65
+Samy desperate single 89 7000 58

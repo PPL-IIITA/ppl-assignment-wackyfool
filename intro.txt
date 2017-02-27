@@ -1,0 +1,7 @@
+The file main.cpp is to compiled on the g++ compiler using command line command "g++ main.cpp".
+The program flow is indicated in file log.txt.
+The final output of the matchmaking will be stored in the file "final.txt".
+
+Submitted By
+Pranjal Agarwal
+RIT2015018
